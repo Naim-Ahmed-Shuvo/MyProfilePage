@@ -1,11 +1,18 @@
-Run
 
-```
-    yarn install
-```
 
-tailwind
+># My Profile WebSite
 
-```
-    yarn run build:css
-```
+
+
+>### Tools
+* React.js
+* Tailwind.css
+* Animation On Scroll
+
+
+
+
+
+[Live Project](https://adoring-mestorf-242276.netlify.app/)
+
+

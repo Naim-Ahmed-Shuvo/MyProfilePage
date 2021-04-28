@@ -23,7 +23,7 @@ const Header = () => {
       className="min-h-screen items-center justify-center overflow-x-hidden"
       style={{
         backgroundColor: "#091c29",
-        paddingTop: 100
+        
       }}
       id="header"
     >

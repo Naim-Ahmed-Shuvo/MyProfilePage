@@ -7,9 +7,7 @@ import ScrollUp from './components/ScrollUp';
 
 function App() {
   return (
-    <div style={{
-      overflowX: "hidden"
-    }}>
+    <div >
      
       <Nav/>
       <Header/>

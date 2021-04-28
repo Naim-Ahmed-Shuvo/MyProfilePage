@@ -7,10 +7,10 @@ const Nav = () => {
     <div
       style={{
         backgroundColor: "#091c29",
-        position: "fixed",
+        position: "sticky",
         top: 0,
         zIndex: 1,
-       width: "100%"
+      //  width: "100%"
       }}
     >
       <div className="flex items-center justify-between w-10/12 mx-auto py-3 text-white font-dosis">
